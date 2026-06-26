@@ -12,7 +12,7 @@ repository               : "erfant00001/erfant00001.github.io"
 # Site Author - controls the left-hand sidebar
 author:
   # Biographic information
-  avatar           : "profile.svg"
+  avatar           : "profile.jpg"
   name             : "Erfan Taatizadeh"
   pronouns         :
   bio              : "Postdoctoral Scholar in Biomedical Engineering & Radiology at UC Davis. I build physics-informed neural networks and digital-twin models for medicine."
