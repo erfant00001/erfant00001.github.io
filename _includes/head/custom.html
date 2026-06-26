@@ -19,4 +19,16 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
+<!-- Crop the sidebar profile photo to a clean circle centered on the face -->
+<style>
+  .author__avatar img {
+    width: 160px !important;
+    height: 160px !important;
+    max-width: 100%;
+    object-fit: cover;
+    object-position: 35% 25%;
+    border-radius: 50%;
+  }
+</style>
+
 <!-- end custom head snippets -->
